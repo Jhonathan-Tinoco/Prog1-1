@@ -15,12 +15,12 @@ int main()
 
 if(  (x+y) % 2 == 1)
 {
-    printf("\nEsse numero eh impar");
+    printf("\n%d eh impar\n", x+y);
 }
 
 else
 {
-    printf("\nEsse numero eh par");
+    printf("\n%d eh par\n", x+y);
 }
 
 
