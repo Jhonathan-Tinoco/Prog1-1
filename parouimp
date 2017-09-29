@@ -1,0 +1,31 @@
+#include <stdio.h>
+int main()
+{
+    int x,y;
+    int i;
+
+    do{
+    printf("\nEntre com o primeiro numero positivo:");
+    scanf("%d", &x);
+    }while(x<=0);
+    do{
+    printf("\nEntre com o segundo numero positivo:");
+    scanf("%d", &y);
+    }while(y<=0);
+
+if(  (x+y) % 2 == 1)
+{
+    printf("\nEsse numero eh impar");
+}
+
+else
+{
+    printf("\nEsse numero eh par");
+}
+
+
+
+
+system ("pause");
+return 0;
+}
