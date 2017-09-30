@@ -12,11 +12,11 @@ int main ()
    int num;
    int i;
    int op;
+   
+   printf("\nOla meu nome eh Vitor de souza e vou calcular numeros primos\n");
+
 do {
            int pri = 0;
-
-
-    printf("\nOla meu nome eh Vitor de souza e vou calcular numeros primos\n");
 
    do{
     printf("\nEntre com um numero positivo:");
