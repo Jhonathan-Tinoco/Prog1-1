@@ -41,7 +41,6 @@ if (pri==2)
 printf("\nDeseja Continuar? 1 - Sim  2 - Nao:");
 scanf("%d", &op);}while (op==1);
 
-printf("\nObrigado ateh a proxima! Para ver meu código entre no link:https://github.com/Faczera/Prog1/blob/master/prim.c\n");
 
 
 
